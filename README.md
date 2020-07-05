@@ -15,4 +15,5 @@ Follow : https://jkjung-avt.github.io/tf-trt-on-nano/
   Jetpack 4.4
   Tensorflow 1.15.2
   
+  Replace trt_ssd.py and visualization.py with JKJUNG's file
   
