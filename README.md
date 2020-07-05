@@ -9,7 +9,7 @@ Models Used:
  
 Follow : https://jkjung-avt.github.io/tf-trt-on-nano/
 
- #Prerequisites
+ Prerequisites:
   Open CV 3.4.6
   Protobuf 3.6.1
   Jetpack 4.4
